@@ -42,7 +42,7 @@ https://images.google.com/
 http://exif.regex.info/exif.cgi  - metadata search
 
 ## Open Directory Search
-palined.com/search/
+http://www.palined.com/search/
 
 ## File Download
 http://filechef.com
