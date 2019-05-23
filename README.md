@@ -28,6 +28,8 @@ https://www.ip2location.com/
 
 https://archive.org/
 
+http://www.crimeflare.org:82/cfs.html
+
 ## Usernames
 https://knowem.com/
 https://checkusernames.com/
@@ -43,10 +45,17 @@ http://exif.regex.info/exif.cgi  - metadata search
 
 ## Open Directory Search
 http://www.palined.com/search/
+
 http://www.marcandangel.com/opendir.html
+
 https://doyou.needmorehdd.space/
+
 http://filechef.com
+
 https://ewasion.github.io/opendirectory-finder/
+
 https://filepursuit.com/
+
 https://www.searchftps.net/
+
 http://www.aiosearch.com/
