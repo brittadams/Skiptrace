@@ -3,9 +3,13 @@ Sites and tools to find people and stuff on the web
 
 ## People Search
 https://www.spokeo.com
+
 https://www.whitepages.com/reverse-address
+
 https://www.zabasearch.com
+
 https://www.zoominfo.com/
+
 https://www.infobel.com/
 
 ## Email
