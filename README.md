@@ -14,13 +14,18 @@ https://www.infobel.com/
 
 ## Email
 https://hunter.io/
+
 http://com.lullar.com/
+
 http://www.emailchange.com/
 
 ## IP and Domain search
 http://whois.domaintools.com/
+
 http://en.utrace.de/
+
 https://www.ip2location.com/
+
 https://archive.org/
 
 ## Usernames
@@ -29,8 +34,11 @@ https://checkusernames.com/
 
 ## Image search
 https://tineye.com/
+
 https://smallseotools.com/reverse-image-search/
+
 https://images.google.com/
+
 http://exif.regex.info/exif.cgi  - metadata search
 
 ## Open Directory Search
